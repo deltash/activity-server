@@ -1,4 +1,4 @@
-git+https://github.com/ActivityWatch/aw-core.git@master#egg=aw-core
+git+https://github.com/deltash/aw-core.git@master#egg=aw-core
 
 flask>=0.10
 flask-restplus>=0.9.2
